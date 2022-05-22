@@ -5,7 +5,7 @@ h1{
 #paper{
     width: 400px;
     height: 500px;
-    background-image: url(/images/paper.png);
+    background-image: url(images/paper.png);
     background-size: contain;
     display: block;
     margin-left: auto;
@@ -20,7 +20,7 @@ h1{
 #note{
     min-width: 400px;
     height:400px;
-    background-image: url(/images/notee.png);
+    background-image: url(images/notee.png);
     background-repeat: no-repeat;
     background-size: contain;
 
@@ -51,5 +51,5 @@ h1{
     overflow-y:auto;
 }
 body{
-    background-image: url(/images/board.png);
+    background-image: url(images/board.png);
 }
